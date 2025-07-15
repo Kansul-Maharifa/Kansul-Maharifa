@@ -1,6 +1,6 @@
 # Hello, It's me Kansul Maharifa
 
-Welcome to my GitHub!, I'm a motivated IT student and Junior IT Executive with practical experience in web development, UI/UX design, and digital content creation.
+Welcome to my GitHub Profile!, I'm a motivated IT student and Junior IT Executive with practical experience in web development, UI/UX design, and digital content creation.
 
 ---
 
