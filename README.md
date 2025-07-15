@@ -37,7 +37,7 @@ I’m passionate about learning new technologies and eager to contribute to proj
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/DELL-Latitude_5410-ED1C24?style=for-the-badge&logo=dell&logoColor=white"/>   <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> 
 
-![Sasni's GitHub stats](https://github-readme-stats.vercel.app/api?username=maharifa11&theme=dark&show_icons=true&&hide=issues,contribs)
+![Sasni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kansul-Maharifa&theme=dark&show_icons=true&&hide=issues,contribs)
 
 
-[![Maharifa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maharifa11&bg_color=212121&color=ffffff&line=e2ff05&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Maharifa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kansul-Maharifa&bg_color=212121&color=ffffff&line=e2ff05&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
