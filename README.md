@@ -9,7 +9,7 @@ I am Currently pursuing a Bachelor of Information Technology at the University o
 
 I’m passionate about learning new technologies and eager to contribute to projects that bridge design and security in the digital world.
 
-- Here is my [Portfolio](https://portfolio-under-constract-sasni-asm.netlify.app/)                                                 
+- Here is my [Portfolio]                                                 
 - I am looking to collaborate on CyberSecurity/ML/AI
 - How to reach me :
 </br> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kansul-maharifa/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:kanmaharifa123@gmail.com) 
